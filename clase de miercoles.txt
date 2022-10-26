@@ -1,2 +1,3 @@
 inter 0 pilzen 0 min 20
-inter 0 pilzen o min 32
+inter 0 pilzen 0 min 32
+inter 1 pilzen 0 min 35 mkhitaryan 
