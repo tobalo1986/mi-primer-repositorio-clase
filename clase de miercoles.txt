@@ -1,1 +1,2 @@
 inter 0 pilzen 0 min 20
+inter 0 pilzen o min 32
